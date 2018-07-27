@@ -1,0 +1,5 @@
+git add 전에 git status로 상황 파악 가능
+git log는 커밋을 한 내역을 보여주고 있다.
+git shortlog는 커밋 메시지를 보여주고 있다.
+
+만약 coomit 중 선택해서 push하고 싶다?
