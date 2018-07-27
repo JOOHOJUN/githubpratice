@@ -1,3 +1,0 @@
-clone은 처음에 복사할때 사용
-pull은 remote에서 변경부분을 local에 반영할 때 사용
-git show/ git status는 상태확인 명령어

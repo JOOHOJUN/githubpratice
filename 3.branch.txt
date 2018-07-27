@@ -1,0 +1,4 @@
+git branch [브랜치 이름] 브랜치 생성하기
+git branch는 브랜치리스트 반환
+git checkout [브랜치 이름] 그 브랜치고 이동하기
+git checkout -b [브랜치 이름] 브랜치 만들고 동시에 이동하기
